@@ -8,10 +8,10 @@
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <Title>Laila.DatePicker</Title>
     <Version>1.0.1</Version>
-    <Authors>Laïla Blomme</Authors>
+    <Authors>Laïla Eleven</Authors>
     <Description>A .NET6 DatePicker featuring auto-sizing, highlighted dates, simplified input and red underlined false input.</Description>
-    <Copyright>Copyright © 2024 by Laïla Blomme</Copyright>
-    <PackageProjectUrl>https://github.com/lailablomme/Laila.DatePicker</PackageProjectUrl>
+    <Copyright>Copyright © 2024 by Laïla Eleven</Copyright>
+    <PackageProjectUrl>https://github.com/laila-eleven/Laila.DatePicker</PackageProjectUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <PackageLicenseFile>LICENSE</PackageLicenseFile>
   </PropertyGroup>
